@@ -11,4 +11,12 @@ martinsdevv/martinsdevv is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinsdevv&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## **Estatísticas Legais**
+
+<a href="https://github.com/martinsdevv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsdevv&theme=tokyonight"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/martinsdevv">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinsdevv&theme=tokyonight" alt="**Gabriel Martins** github stats"/>
+</a>
