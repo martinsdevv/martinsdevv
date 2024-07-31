@@ -1,15 +1,15 @@
+### #!/usr/bin/env martinsdevv
 
-- 👋 Hi, I’m @martinsdevv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!---
-martinsdevv/martinsdevv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bem vindo ao meu perfil!
+Aqui você encontrará:
+
+* Projetos ~~inacabados~~ legais
+* Códigos bonitos (ou quase isso)
+* Um dev Java que programa em C e finge que sabe C# enquanto brinca com bash
+* Um dev backend que odeia web mas ta louco por um emprego (alguém me contrata)
+* Documentações mal feitas
+* Um resquício de insanidade
+* Bastante café ☕
 
 ## **Estatísticas Legais**
 
@@ -20,3 +20,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/martinsdevv">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinsdevv&theme=tokyonight&custom_title=Estatísticas+GitHub" alt="**Gabriel Martins** github stats"/>
 </a>
+
+exit 0
