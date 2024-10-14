@@ -5,8 +5,7 @@ Aqui você encontrará:
 
 * Projetos ~~inacabados~~ legais
 * Códigos bonitos (ou quase isso)
-* Um dev Java que programa em C e finge que sabe C# enquanto brinca com bash
-* Um dev backend que odeia web mas ta louco por um emprego (alguém me contrata)
+* Um dev Java que programa em C e finge que sabe Python enquanto brinca com Bash
 * Documentações mal feitas
 * Um resquício de insanidade
 * Bastante café ☕
